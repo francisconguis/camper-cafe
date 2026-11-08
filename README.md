@@ -2,7 +2,7 @@
 
 A responsive cafe menu webpage built as part of the **freeCodeCamp Responsive Web Design Certification**.
 
-🔗 **[Live Demo](https://<your-username>.github.io/<repo-name>/)**
+🔗 **[Live Demo](https://francisconguis.github.io/camper-cafe/)**
 
 ---
 
